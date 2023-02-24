@@ -94,6 +94,7 @@ The name of new Wownero releases will follow an `adjective + meme` convention. P
 
 ## L
 - Lawyer Dog
+- Lemon Licker
 - Lemon Party
 - Lenny
 - Liquid LSD
