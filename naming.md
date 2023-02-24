@@ -93,12 +93,14 @@ The name of new Wownero releases will follow an `adjective + meme` convention. P
 - Kylie Jenner
 
 ## L
-- LOLcats
-- Lenny
-- My Little Pony
-- Lemon Party
-- LMAO
 - Lawyer Dog
+- Lemon Party
+- Lenny
+- Liquid LSD
+- LMAO
+- LOLcats
+- Lunatic Lumaca
+- My Little Pony
 
 ## M
 - Me Gusta
